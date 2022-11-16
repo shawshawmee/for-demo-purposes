@@ -1,0 +1,27 @@
+WEB refers to websites, web pages
+DEVELOPMENT - building applications from scratch
+web design, publishing, programmng and database management
+FULL-STACK DEVELOPER
+-Front End
+ HTML, CSS, JAVASCRIPT
+-Back End
+ PHP, JAVA, PYTHON
+ MYSQL, MARIADB
+ API
+ APACHE, NGINX
+
+User Interface (UI)
+User Experrience (UX)
+
+Web Development Stack is set of tools typically used in tandem to develop web apps
+
+HTML - Stucture that holds the content of a page
+CSS - is the styling and formatting of web pages
+JavaScript - is a scripting language to make a website responsive, dynamic and interactive
+Hypertext Markup Language (HTML)
+
+HTML Tag - parent tag or root element of a web page
+Head Tag - first child of html tag
+Title Tag - used only once inside head tag
+Meta Tag - charset family, description, keywords, author
+Body Tag - page structure or content. includes headings, paragraphs etc. of the websites.
